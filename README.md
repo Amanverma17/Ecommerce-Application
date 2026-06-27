@@ -199,8 +199,9 @@ ecom-microservice/
 
 ---
 
-## 👨‍💻 Author
+## 👤 Author
 
-**Aman Verma**  
-B.Tech Information Technology — Saranathan College of Engineering  
-[GitHub](https://github.com/Amanverma17) • [LinkedIn](https://linkedin.com/in/your-linkedin)
+**Aman Verma**
+- GitHub: [github.com/Amanverma17](https://github.com/Amanverma17)
+- LinkedIn: [linkedin.com/in/aman-verma-r-87601134b](https://linkedin.com/in/aman-verma-r-87601134b)
+- LeetCode: [amanverma17](https://leetcode.com/amanverma17)
