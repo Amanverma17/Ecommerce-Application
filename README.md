@@ -8,9 +8,9 @@ A backend e-commerce system built with **Spring Boot Microservices**, featuring 
 
 ```
 ┌─────────────────┐    ┌─────────────────┐    ┌─────────────────┐
-│   User Service  │    │ Product Service  │    │  Order Service  │
-│   Port: 8082    │    │   Port: 8083     │    │   Port: 8084    │
-│   PostgreSQL    │    │   PostgreSQL     │    │   PostgreSQL    │
+│   User Service  │    │ Product Service │    │  Order Service  │
+│   Port: 8082    │    │   Port: 8083    │    │   Port: 8084    │
+│   PostgreSQL    │    │   PostgreSQL    │    │   PostgreSQL    │
 └─────────────────┘    └─────────────────┘    └─────────────────┘
 ```
 
